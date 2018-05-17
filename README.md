@@ -12,6 +12,8 @@ http://www.techbeamers.com/top-web-developer-interview-questions/#javascript-int
 
 https://www.tutorialspoint.com/javascript/javascript_interview_questions.htm
 
+https://www.c-sharpcorner.com/article/top-most-50-javascript-interview-questions-and-answers/
+
 **Es6**
 
 https://www.onlineinterviewquestions.com/es6-interview-questions/
